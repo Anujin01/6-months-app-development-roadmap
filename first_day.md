@@ -13,3 +13,7 @@ My app is located in the **"project"** directory and is named **"HelloApp"**.
 
 ### 🖥️ First Visual
 This section shows the first version (visual) of my app.
+
+![My App Screenshot](./IMG_3131.jpg)
+
+
