@@ -7,7 +7,7 @@ Node.js comes with a package manager called **npm** (Node Package Manager), whic
 ---
 
 #### 📂 App Location
-My app is located in the **"project"** directory and is named **"HelloApp"**.
+My app is located in the **"desktop"** directory and is named **"my-app"**.
 
 ---
 
