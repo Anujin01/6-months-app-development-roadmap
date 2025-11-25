@@ -14,7 +14,7 @@ For the next 6 months, I’m learning React Native, JavaScript, UI/UX basics, an
 
 |  #  | Project / Topic     | Description                       | Link |
 | :-: | ------------------- | --------------------------------- | ---- |
-| 01  | Getting Started     | Installed tools, created first Expo app (“Hello App”), and tested it on Expo Go | [first_day.md](first_day.md) |
+| 01  | Getting Started     | Installed tools, created first Expo app (“Hello App”), and tested it on Expo Go | [day1.md](day1.md) |
 | 02	|React Native Basics|	Understanding components, views, styling, and hot reload|	Coming soon
 | 03 |	JavaScript Essentials	Variables, arrays, objects, loops, functions practice|	Coming soon
 | 04 |UI Practice	Designing simple screens (Login, Profile, Home)|	Coming soon
